@@ -31,7 +31,7 @@ If the installation was successful, you should be able to run the following comm
 
 ## Install
 
-    $ git clone https://github.com/ritul-mtalkz/fastify-swagger-nodejs.git
+    $ git clone https://github.com/ritul-mtalkz/tryFastify-mongoose-API.git
     $ cd tryFastify-mongoose-API
     $ npm install
 
